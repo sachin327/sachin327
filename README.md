@@ -4,14 +4,10 @@
 
 ### Hi there 👋
 
-I am Sachin Jangid.I have interest in Machine learning and data science.I have worked on many projects on machine learning and deeplearning in my past.
+I am Sachin Jangid.I have interest in Machine learning and data science.I have worked on many projects on machine learning and deeplearning.
 
-- 🔭 I’m currently working on a project on **Underwater image enhencement using Generative Adversiral Network**
-- 🌱 I’m currently learning new ideas in **machine learning**
-- 👯 I’m looking to collaborate on an **AI** or **deeplearning** project
-- 🤔 I’m looking for help with **python**
-- 💬 Ask me about **Tensorflow,Keras,OpenCV**
+- 🔭 Currently working on a project on **Underwater image enhencement using Generative Adversiral Network**
+- 🌱 Learning new ideas in **machine learning**
+- 💬 Ask me about **Tensorflow,Keras,OpenCV,C++**
 - 📫 How to reach me: you contact with me on my **mail id** sachinjangid9694@gmail.com
-- 😄 Pronouns: you can give one.
-- ⚡ Fun fact: I have deep interest in machine learning
 
