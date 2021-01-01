@@ -1,6 +1,6 @@
 # Sachin Jangid
   
-[![linkedin](https://github.com/sachin327/unsupervise_learning/blob/main/images/linkedin.gif)](https://www.linkedin.com/in/sachin-jangid-6215ba1ab/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codechef](https://github.com/sachin327/unsupervise_learning/blob/main/images/c.png)](https://www.codechef.com/users/sachin327)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/sachin327/unsupervise_learning/blob/main/images/g.png)](mailto:sachinjangid9694@gmail.com)
+[![linkedin](https://github.com/sachin327/unsupervise_learning/blob/main/images/linkedin.gif)](https://www.linkedin.com/in/sachin-jangid-6215ba1ab/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codechef](https://github.com/sj327/unsupervise_learning/blob/main/images/c.png)](https://www.codechef.com/users/sachin327)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/sachin327/unsupervise_learning/blob/main/images/g.png)](mailto:sachinjangid9694@gmail.com)
 
 ### Hi there 👋
 
